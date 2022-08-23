@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bishal-Mohapatra
-- 👀 I’m interested in java / Android dev
+- 👀 I’m interested in java /Web Devlopment
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bishalmohapatra235@gmail.com
